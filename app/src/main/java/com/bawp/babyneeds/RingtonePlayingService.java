@@ -20,7 +20,6 @@ public class RingtonePlayingService extends Worker {
 
     public RingtonePlayingService(@NonNull Context context, @NonNull WorkerParameters workerParams) {
         super(context, workerParams);
-        // git remote set-url [--push] origin https://github.com/aumarbello/Baby [https://github.com/salicode/MyBabyAndI]
     }
 
     @NonNull
